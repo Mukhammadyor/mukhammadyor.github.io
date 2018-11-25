@@ -1,0 +1,27 @@
+h1
+{
+	text-align: center;
+	color: black;
+	font-size: 100px;
+}
+p
+{
+	color: red;
+	font-size: 50px;
+	text-align: center;
+}
+body
+{
+	background-image: url(1.png);
+	size: 1;
+}
+h3{
+	font-size: 60px;
+	color: red;
+}
+h4{
+	font-size: 30px;
+}
+img{
+	border-radius:50%;
+}

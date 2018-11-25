@@ -1,0 +1,19 @@
+body {background-color: #303030;}
+h1{font-family: monospace;
+	color: black;
+	font-size: 55px;}
+h3{font-size: 28pt;
+	color: red;}
+img{
+	border-radius:50%;
+}
+
+p
+{
+	color: white;
+	font-size: 50px;
+	text-align: center;
+}
+h4{
+	font-size: 30px;
+}
